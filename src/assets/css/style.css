@@ -15,17 +15,17 @@
 
 /*--------------------------------------------------------------------- import Files ---------------------------------------------------------------------*/
 
-@import url(./assets/css/animate.min.css);
-@import url(./assets/css/normalize.css);
-@import url(./assets/css/icomoon.css);
-@import url(./assets/css/font-awesome.min.css);
-@import url(./assets/css/meanmenu.css);
-@import url(./assets/css/owl.carousel.min.css);
-@import url(./assets/css/swiper.min.css);
-@import url(./assets/css/slick.css);
-@import url(./assets/css/jquery.fancybox.min.css);
-@import url(./assets/css/jquery-ui.css);
-@import url(./assets/css/nice-select.css);
+@import url(/docs/assets/css/animate.min.css);
+@import url(/docs/assets/css/normalize.css);
+@import url(/docs/assets/css/icomoon.css);
+@import url(/docs/assets/css/font-awesome.min.css);
+@import url(/docs/assets/css/meanmenu.css);
+@import url(/docs/assets/css/owl.carousel.min.css);
+@import url(/docs/assets/css/swiper.min.css);
+@import url(/docs/assets/css/slick.css);
+@import url(/docs/assets/css/jquery.fancybox.min.css);
+@import url(/docs/assets/css/jquery-ui.css);
+@import url(/docs/assets/css/nice-select.css);
 
 /*--------------------------------------------------------------------- skeleton ---------------------------------------------------------------------*/
 
