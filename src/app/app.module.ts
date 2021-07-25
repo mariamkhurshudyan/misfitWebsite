@@ -10,8 +10,9 @@ import { TrainerComponent } from './component/trainer/trainer.component';
 import { GalleryComponent } from './component/gallery/gallery.component';
 import { ContactComponent } from './component/contact/contact.component';
 import { HomeComponent } from './component/home/home.component';
-import { HeaderComponent } from './component/header/header.component';
-import { FooterComponent } from './component/footer/footer.component';
+import { FooterComponent } from './footer/footer.component';
+import { HeaderComponent } from './header/header.component';
+
 
 @NgModule({
   declarations: [
@@ -23,8 +24,9 @@ import { FooterComponent } from './component/footer/footer.component';
     GalleryComponent,
     ContactComponent,
     HomeComponent,
+    FooterComponent,
     HeaderComponent,
-    FooterComponent
+
   ],
   imports: [
     BrowserModule,

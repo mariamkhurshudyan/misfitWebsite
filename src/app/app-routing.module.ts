@@ -7,8 +7,7 @@ import { NewsComponent } from './component/news/news.component';
 import { TrainerComponent } from './component/trainer/trainer.component';
 import { GalleryComponent } from './component/gallery/gallery.component';
 import { ContactComponent } from './component/contact/contact.component';
-import { HeaderComponent } from './component/header/header.component';
-import { FooterComponent } from './component/footer/footer.component';
+
 const routes: Routes = [
   { path: '',   redirectTo: 'home', pathMatch: 'full' },
   { path: 'home', component: HomeComponent },
@@ -18,8 +17,6 @@ const routes: Routes = [
   { path: 'trainer', component: TrainerComponent },
   { path: 'gallery', component: GalleryComponent },
   { path: 'contact', component: ContactComponent },
-  {path: 'header', component:HeaderComponent },
-  {path: 'footer', component: FooterComponent},
 
 ];
 
